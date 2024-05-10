@@ -1,5 +1,5 @@
 {
-    "name"       : "hoa/compiler",
+    "name"       : "trunglv/compiler",
     "description": "The Hoa\\Compiler library.",
     "type"       : "library",
     "keywords"   : ["library", "compiler", "grammar", "language", "ll1",
@@ -27,15 +27,15 @@
         "source": "https://central.hoa-project.net/Resource/Library/Compiler"
     },
     "require": {
-        "php"            : ">=5.5.0",
-        "hoa/consistency": "~1.0",
-        "hoa/exception"  : "~1.0",
-        "hoa/file"       : "~1.0",
-        "hoa/iterator"   : "~2.0",
-        "hoa/math"       : "~1.0",
-        "hoa/protocol"   : "~1.0",
-        "hoa/regex"      : "~1.0",
-        "hoa/visitor"    : "~2.0"
+        "php"            : ">=8.0.0",
+        "trunglv/consistency": "~1.0",
+        "trunglv/exception"  : "~1.0",
+        "trunglv/file"       : "~1.0",
+        "trunglv/iterator"   : "~2.0",
+        "trunglv/math"       : "~1.0",
+        "trunglv/protocol"   : "~1.0",
+        "trunglv/regex"      : "~1.0",
+        "trunglv/visitor"    : "~2.0"
     },
     "require-dev": {
         "hoa/json": "~2.0",
