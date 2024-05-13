@@ -28,12 +28,12 @@
     },
     "require": {
         "php"            : ">=8.0.0",
-        "trunglv/consistency": "~1.0",
+        "trunglv/consistency": "dev-master",
         "hoa/exception"  : "~1.0",
         "hoa/file"       : "~1.0",
-        "trunglv/iterator"   : "~2.0",
+        "trunglv/iterator"   : "dev-master",
         "hoa/math"       : "~1.0",
-        "trunglv/protocol"   : "~1.0",
+        "trunglv/protocol"   : "dev-master",
         "hoa/regex"      : "~1.0",
         "hoa/visitor"    : "~2.0"
     },
